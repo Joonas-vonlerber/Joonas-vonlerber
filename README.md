@@ -23,8 +23,7 @@ I do projects on my free time and mostly do stuff realting to or anything that i
 - ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) Julia (scientific applications)
 
 ### Topics I'm knowledgeable or interested in 💡
-- Theoretical math
-- Theoretical computer science
+- Theoretical math & computer science
 - Cryptography
 - Machine learning & AI
 - Linux
